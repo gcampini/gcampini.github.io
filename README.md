@@ -1,2 +1,2 @@
-# gcampini.github.io
-Personal Website
+# Personal Website
+This is the repo hosting my personal website.
